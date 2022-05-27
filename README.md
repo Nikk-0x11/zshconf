@@ -28,3 +28,8 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```sh
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
+
+**grab this config**
+```sh
+wget -O ~/.zshrc https://raw.githubusercontent.com/Nikk-0x11/zshconf/main/.zshrc && source ~/.zshrc
+```
